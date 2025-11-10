@@ -1,4 +1,4 @@
-### Olá 👋 Eu sou Mailson Santos Filho! 🖖
+### Olá, Eu sou Mailson Santos Filho! 🖖
 
 <img align="right" width="200" src="https://github.com/user-attachments/assets/c66e9e44-d30d-4a94-b1c4-1246b9a1a673" />
 
