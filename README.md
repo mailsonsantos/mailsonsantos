@@ -6,7 +6,7 @@
 - 🔬 Sou **Consultor de Business Analytics** desde 2010.
 - 👨‍🔬 Atualmente cursando **Doutorado em Engenharia da Computação** na UPE.
 - 🎓 Sou **Mestre em Ciência da Computação** pela UFPE.
-- 🧠 Meus principais interesses de pesquisa incluem: **Data Governance, AutoML, Data Mining e Machine Learning**.
+- 🧠 Meus principais interesses de pesquisa incluem: **Data Governance, Data Engineer, AutoML, Data Mining e Machine Learning**.
 - 💡 Fato curioso: Minha formação é híbrida! Além de **Sistemas de Informação** (IFAL), também sou graduado em **Administração** (UFAL).
 - 🗣️ Pronomes: ele/dele
 
